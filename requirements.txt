@@ -1,0 +1,5 @@
+Flask
+Pillow
+pdf2image
+python-dotenv
+requests
